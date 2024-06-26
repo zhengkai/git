@@ -39,6 +39,8 @@
 
 其实 vscode 的显示比 vim 漂亮得多，这个甚至是当初我在 [stackoverflow](https://stackoverflow.com/questions/53590727/how-to-show-different-colors-in-files-list-when-i-filling-git-commit-message-in) 提问后 vim 才增加的这个显示
 
+像 `thumbs.db`、`.DS_Store` 这类垃圾文件不要提交到版本库，推荐了解下 [gitignore 模板合集](https://github.com/github/gitignore)
+
 ## 裸仓库
 
 创建方式

@@ -18,7 +18,7 @@ echo step2 > step2.txt
 git add step2.txt
 git commit -m "add step2.txt"
 
-git co -b bugfix
+git checkout -b bugfix
 
 echo step3 > step3.txt
 git add step3.txt
